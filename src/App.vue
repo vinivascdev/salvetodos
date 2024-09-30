@@ -12,6 +12,7 @@ import vdevilao from "./components/vdevilao.vue";
 import maria from "./components/maria.vue";
 import trestrestres from "./components/333.vue"
 import likethis from "./components/likethis.vue";
+import componentefooter from "./components/componentefooter.vue";
 
 </script>
 
@@ -29,6 +30,7 @@ import likethis from "./components/likethis.vue";
   <maria/>
   <trestrestres />
   <likethis/>
+  <componentefooter/>
 </template>
 
 <style scoped></style>

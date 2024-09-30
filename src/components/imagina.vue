@@ -9,13 +9,13 @@
             <h3>
                 - {{ nomeArtista }}, {{ nomeMusica }}.
             </h3>
-            
+
         </div>
     </a>
 </template>
 
 <script setup>
 import { ref } from "vue"
-const nomeArtista = ref("Matuê")
+const nomeArtista = ref("Matuê e Veigh")
 const nomeMusica = ref("Imagina Esse Cenário")
 </script>

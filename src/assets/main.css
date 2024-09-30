@@ -1,4 +1,4 @@
-body{
+body {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -8,9 +8,10 @@ body{
 }
 
 h1,
-h3 {
+h3,
+h5 {
     color: white;
-} 
+}
 
 .componente {
     margin: 30px;
@@ -25,23 +26,32 @@ h3 {
     transform: scale(1.02);
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-#cover img{
+#coverimg {
+    text-align: center;
+}
+
+#cover img {
     width: 300px;
     border-radius: 24px;
     transition: 0.1s ease-in;
 }
 
-#cover img:hover{
+#cover img:hover {
     transform: scale(1.02);
 }
 
-#cover{
+#cover {
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 25px 0px;
+}
+
+footer {
+    text-align: center;
+    border-top: 1px solid white;
 }

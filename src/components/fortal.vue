@@ -16,6 +16,6 @@
 
 <script setup>
 import { ref } from "vue"
-const nomeArtista = ref("Teto")
+const nomeArtista = ref("Matuê e Teto")
 const nomeMusica = ref("4tal")
 </script>

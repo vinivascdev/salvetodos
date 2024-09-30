@@ -9,7 +9,7 @@
             <h3>
                 - {{ nomeArtista }}, {{ nomeMusica }}.
             </h3>
-            
+
         </div>
     </a>
 </template>
