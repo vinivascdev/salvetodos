@@ -1,0 +1,47 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #286CB9;
+    font-family: sans-serif;
+}
+
+h1,
+h3 {
+    color: white;
+} 
+
+.componente {
+    margin: 30px;
+    border-radius: 15px;
+    background-color: #114d92;
+    cursor: pointer;
+    transition: 0.1s ease-in;
+    padding: 20px 60px;
+}
+
+.componente:hover {
+    transform: scale(1.02);
+}
+
+a{
+    text-decoration: none;
+}
+
+#cover img{
+    width: 300px;
+    border-radius: 24px;
+    transition: 0.1s ease-in;
+}
+
+#cover img:hover{
+    transform: scale(1.02);
+}
+
+#cover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px 0px;
+}
