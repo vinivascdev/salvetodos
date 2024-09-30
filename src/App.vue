@@ -1,6 +1,5 @@
 <script setup>
 import AlbumCover from "./components/albumCover.vue";
-import trestrestres from "./components/333.vue"
 import crack from "./components/crack.vue"
 import issoEserio from "./components/issoEserio.vue"
 import imagina from "./components/imagina.vue"
@@ -9,6 +8,10 @@ import fortal from "./components/fortal.vue"
 import oSom from "./components/oSom.vue"
 import quatroam from "./components/quatroam.vue";
 import castlevania from "./components/castlevania.vue";
+import vdevilao from "./components/vdevilao.vue";
+import maria from "./components/maria.vue";
+import trestrestres from "./components/333.vue"
+import likethis from "./components/likethis.vue";
 
 </script>
 
@@ -22,7 +25,10 @@ import castlevania from "./components/castlevania.vue";
   <oSom/>
   <quatroam/>
   <castlevania/>
+  <vdevilao/>
+  <maria/>
   <trestrestres />
+  <likethis/>
 </template>
 
 <style scoped></style>
