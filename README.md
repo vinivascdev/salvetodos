@@ -1,29 +1,3 @@
-# aprendizado-vue
+# Lista de Músicas do Álbum 333 - Projeto de Prática com Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Este projeto é uma aplicação simples em Vue.js que lista as músicas do mais recente álbum 333 do cantor Matuê. O objetivo deste projeto é apenas praticar conceitos básicos do Vue.js.
