@@ -1,5 +1,5 @@
 <template>
-    <a target="_blank" href="hhttps://open.spotify.com/intl-pt/track/4v0VOuuaZSQHjnjzkC3cnk?si=93c96a20e81147e6">
+    <a target="_blank" href="https://open.spotify.com/intl-pt/track/4v0VOuuaZSQHjnjzkC3cnk?si=93c96a20e81147e6">
 
         <div class="componente">
             <h1>
